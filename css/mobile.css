@@ -1,0 +1,48 @@
+@media(max-width: 375px){
+    .main_header{
+     width: 185%;
+     
+    }
+    .fa-bars{
+        display: block;
+        color: white;
+        font-size: 18px;
+background-color: #524A44;
+padding: 16px;
+border-radius: 32px;
+margin-left: 400px;
+        }
+.header_ul{
+    display: none;
+}
+.header_button{
+    display: none;
+}
+
+.section1{
+    width: 185%;
+}
+.section_title{
+    font-size: 24px;
+}
+.section2{
+    width: 185%;
+}
+.section2_title{
+    font-size: 30px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.section2_text{
+    font-size: 20px;
+}
+.section3{
+    width: 185%;
+}
+.box{
+    width: 92%;
+}
+.footer{
+    width: 100%;
+}
+}
